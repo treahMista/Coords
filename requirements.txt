@@ -2,4 +2,3 @@ pandas
 bokeh
 os
 tarfile
-six.moves
